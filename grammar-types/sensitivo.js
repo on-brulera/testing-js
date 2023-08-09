@@ -51,7 +51,7 @@ function funcionLet() {
     let varLetBloque =
       "let creada en bloque if, si no entra error por no definir";
   }
-  console.log(varLetBloque);
+  // console.log(varLetBloque);
 }
 
 function funcionConst() {
@@ -59,7 +59,7 @@ function funcionConst() {
     const varConstBloque =
       "const creada en bloque if, si no entra error por no definir";
   }
-  console.log(varConstBloque);
+  // console.log(varConstBloque);
 }
 
 funcionVar();
